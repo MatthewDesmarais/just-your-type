@@ -3,10 +3,7 @@ html {
   font-family: "Roboto", sans-serif;
   font-family: "Varela Round", sans-serif;
   font-family: "Permanent Marker", cursive;
-}
-
-html {
- background-color: #333132;
+  background-color: #333132;
 }
 
 .nothing {
@@ -29,7 +26,7 @@ html {
 
 .forever {
   font-family: "Varela Round";
-  color: #ffffff;
+  color: #fff;
   text-align: center;
   position: relative;
   right: 18px;

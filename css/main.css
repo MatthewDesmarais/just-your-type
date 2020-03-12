@@ -1,6 +1,6 @@
 
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-family: "Varela Round", sans-serif;
   font-family: "Permanent Marker", cursive;
   background-color: #333132;
@@ -20,8 +20,6 @@ html {
   text-align: center;
   position: relative;
   right: 135px;
-
-
  }
 
 .forever {
@@ -39,7 +37,7 @@ html {
 }
 
 .extinction {
-  font-family: "Roboto";
+  font-family: Roboto;
   color: #fff;
   transform: rotate(90deg);
   float: left;

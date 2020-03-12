@@ -14,34 +14,50 @@ html {
   top: 100px;
 }
 
-.lasts {
-  font-family: "Varela Round";
-  color: #fff;
-  text-align: center;
-  position: relative;
-  right: 135px;
+.spacer {
+  margin-left: 15%;
+    position: relative;
 }
 
-.forever {
-  font-family: "Varela Round";
-  color: #fff;
-  text-align: center;
-  position: relative;
-  right: 18px;
-  bottom: 100px;
+.text-left {
+  line-height: 1em;
 }
 
 .prompt {
   color: #b73d25;
   text-align: center;
+  display: block;
+  position: absolute;
+  top: 620px;
 }
 
 .extinction {
   font-family: Roboto;
   color: #fff;
   transform: rotate(90deg);
-  float: left;
   background-color: #42494d;
   text-align: center;
   max-width: 100%;
+  position: fixed;
+  top: 367px;
+  left: -395px;
+  letter-spacing: 3px;
+}
+
+p {
+  margin: 0 0 .5rem !important;
+}
+
+.extinct {
+  padding-left: 3em;
+  padding-right: 4em;
+}
+
+h1 {
+  display: block;
+  position: absolute;
+  top: 300px;
+  line-height: .8em;
+  padding-right: 10em;
+  color: #fff;
 }

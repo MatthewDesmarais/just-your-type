@@ -23,7 +23,7 @@ html {
  background-color: #333132;
 }
 
-.Nothing {
+.nothing {
   font-family:'Varela Round';
   color: #ffffff;
   text-align: center;
@@ -32,7 +32,7 @@ html {
 
 }
 
-.Lasts {
+.lasts {
   font-family:'Varela Round';
   color: #ffffff;
   text-align: center;
@@ -42,22 +42,21 @@ html {
 
  }
 
-.Forever {
+.forever {
   font-family:'Varela Round';
   color: #ffffff;
-  font-weight: bold;
   text-align: center;
   position: relative;
   right: 18px;
   bottom: 100px;
 }
 
-.Prompt {
+.prompt {
   color: #B73D25;
   text-align: center;
 }
 
-.Extinction {
+.extinction {
   font-family:'Roboto';
   color: #ffffff;
   transform: rotate(90deg);
